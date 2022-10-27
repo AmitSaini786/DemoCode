@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		6BF0C00328E728FB00F8ACBA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BF0C00228E728FB00F8ACBA /* AppDelegate.swift */; };
 		6BF0C00528E728FB00F8ACBA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BF0C00428E728FB00F8ACBA /* SceneDelegate.swift */; };
-		6BF0C00728E728FB00F8ACBA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BF0C00628E728FB00F8ACBA /* ViewController.swift */; };
 		6BF0C00A28E728FB00F8ACBA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BF0C00828E728FB00F8ACBA /* Main.storyboard */; };
 		6BF0C00D28E728FB00F8ACBA /* MVVMWithAlmofire.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6BF0C00B28E728FB00F8ACBA /* MVVMWithAlmofire.xcdatamodeld */; };
 		6BF0C00F28E728FD00F8ACBA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6BF0C00E28E728FD00F8ACBA /* Assets.xcassets */; };
@@ -17,6 +16,12 @@
 		6BF0C01D28E728FD00F8ACBA /* MVVMWithAlmofireTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BF0C01C28E728FD00F8ACBA /* MVVMWithAlmofireTests.swift */; };
 		6BF0C02728E728FD00F8ACBA /* MVVMWithAlmofireUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BF0C02628E728FD00F8ACBA /* MVVMWithAlmofireUITests.swift */; };
 		6BF0C02928E728FD00F8ACBA /* MVVMWithAlmofireUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BF0C02828E728FD00F8ACBA /* MVVMWithAlmofireUITestsLaunchTests.swift */; };
+		6BF0C03928E729AB00F8ACBA /* ExcerciseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BF0C03828E729AB00F8ACBA /* ExcerciseModel.swift */; };
+		6BF0C03B28E72A3C00F8ACBA /* ExcerciseViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BF0C03A28E72A3C00F8ACBA /* ExcerciseViewModel.swift */; };
+		6BF0C03D28E72B5900F8ACBA /* tblExerciseListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BF0C03C28E72B5900F8ACBA /* tblExerciseListCell.swift */; };
+		6BF0C04028E72BDF00F8ACBA /* ExerciseListVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BF0C03F28E72BDF00F8ACBA /* ExerciseListVC.swift */; };
+		6BF0C04328E72D1900F8ACBA /* Services.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BF0C04228E72D1900F8ACBA /* Services.swift */; };
+		6BF0C04628EC256200F8ACBA /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = 6BF0C04528EC256200F8ACBA /* Alamofire */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,7 +45,6 @@
 		6BF0BFFF28E728FB00F8ACBA /* MVVMWithAlmofire.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MVVMWithAlmofire.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BF0C00228E728FB00F8ACBA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6BF0C00428E728FB00F8ACBA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		6BF0C00628E728FB00F8ACBA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		6BF0C00928E728FB00F8ACBA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		6BF0C00C28E728FB00F8ACBA /* MVVMWithAlmofire.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = MVVMWithAlmofire.xcdatamodel; sourceTree = "<group>"; };
 		6BF0C00E28E728FD00F8ACBA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -51,6 +55,11 @@
 		6BF0C02228E728FD00F8ACBA /* MVVMWithAlmofireUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MVVMWithAlmofireUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BF0C02628E728FD00F8ACBA /* MVVMWithAlmofireUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVVMWithAlmofireUITests.swift; sourceTree = "<group>"; };
 		6BF0C02828E728FD00F8ACBA /* MVVMWithAlmofireUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MVVMWithAlmofireUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6BF0C03828E729AB00F8ACBA /* ExcerciseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExcerciseModel.swift; sourceTree = "<group>"; };
+		6BF0C03A28E72A3C00F8ACBA /* ExcerciseViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExcerciseViewModel.swift; sourceTree = "<group>"; };
+		6BF0C03C28E72B5900F8ACBA /* tblExerciseListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tblExerciseListCell.swift; sourceTree = "<group>"; };
+		6BF0C03F28E72BDF00F8ACBA /* ExerciseListVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseListVC.swift; sourceTree = "<group>"; };
+		6BF0C04228E72D1900F8ACBA /* Services.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Services.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +67,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6BF0C04628EC256200F8ACBA /* Alamofire in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -101,9 +111,13 @@
 		6BF0C00128E728FB00F8ACBA /* MVVMWithAlmofire */ = {
 			isa = PBXGroup;
 			children = (
+				6BF0C03528E7291200F8ACBA /* Model */,
+				6BF0C03628E7291700F8ACBA /* View */,
+				6BF0C03728E7295400F8ACBA /* ViewModel */,
+				6BF0C03E28E72BB800F8ACBA /* ViewController */,
+				6BF0C04128E72CD500F8ACBA /* Services */,
 				6BF0C00228E728FB00F8ACBA /* AppDelegate.swift */,
 				6BF0C00428E728FB00F8ACBA /* SceneDelegate.swift */,
-				6BF0C00628E728FB00F8ACBA /* ViewController.swift */,
 				6BF0C00828E728FB00F8ACBA /* Main.storyboard */,
 				6BF0C00E28E728FD00F8ACBA /* Assets.xcassets */,
 				6BF0C01028E728FD00F8ACBA /* LaunchScreen.storyboard */,
@@ -130,6 +144,46 @@
 			path = MVVMWithAlmofireUITests;
 			sourceTree = "<group>";
 		};
+		6BF0C03528E7291200F8ACBA /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				6BF0C03828E729AB00F8ACBA /* ExcerciseModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		6BF0C03628E7291700F8ACBA /* View */ = {
+			isa = PBXGroup;
+			children = (
+				6BF0C03C28E72B5900F8ACBA /* tblExerciseListCell.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		6BF0C03728E7295400F8ACBA /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				6BF0C03A28E72A3C00F8ACBA /* ExcerciseViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		6BF0C03E28E72BB800F8ACBA /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				6BF0C03F28E72BDF00F8ACBA /* ExerciseListVC.swift */,
+			);
+			path = ViewController;
+			sourceTree = "<group>";
+		};
+		6BF0C04128E72CD500F8ACBA /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				6BF0C04228E72D1900F8ACBA /* Services.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -146,6 +200,9 @@
 			dependencies = (
 			);
 			name = MVVMWithAlmofire;
+			packageProductDependencies = (
+				6BF0C04528EC256200F8ACBA /* Alamofire */,
+			);
 			productName = MVVMWithAlmofire;
 			productReference = 6BF0BFFF28E728FB00F8ACBA /* MVVMWithAlmofire.app */;
 			productType = "com.apple.product-type.application";
@@ -218,6 +275,9 @@
 				Base,
 			);
 			mainGroup = 6BF0BFF628E728FB00F8ACBA;
+			packageReferences = (
+				6BF0C04428EC256200F8ACBA /* XCRemoteSwiftPackageReference "Alamofire" */,
+			);
 			productRefGroup = 6BF0C00028E728FB00F8ACBA /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -261,9 +321,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6BF0C00728E728FB00F8ACBA /* ViewController.swift in Sources */,
+				6BF0C03B28E72A3C00F8ACBA /* ExcerciseViewModel.swift in Sources */,
+				6BF0C03928E729AB00F8ACBA /* ExcerciseModel.swift in Sources */,
 				6BF0C00328E728FB00F8ACBA /* AppDelegate.swift in Sources */,
+				6BF0C04028E72BDF00F8ACBA /* ExerciseListVC.swift in Sources */,
 				6BF0C00D28E728FB00F8ACBA /* MVVMWithAlmofire.xcdatamodeld in Sources */,
+				6BF0C04328E72D1900F8ACBA /* Services.swift in Sources */,
+				6BF0C03D28E72B5900F8ACBA /* tblExerciseListCell.swift in Sources */,
 				6BF0C00528E728FB00F8ACBA /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -622,6 +686,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		6BF0C04428EC256200F8ACBA /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		6BF0C04528EC256200F8ACBA /* Alamofire */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 6BF0C04428EC256200F8ACBA /* XCRemoteSwiftPackageReference "Alamofire" */;
+			productName = Alamofire;
+		};
+/* End XCSwiftPackageProductDependency section */
 
 /* Begin XCVersionGroup section */
 		6BF0C00B28E728FB00F8ACBA /* MVVMWithAlmofire.xcdatamodeld */ = {

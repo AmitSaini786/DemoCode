@@ -8,6 +8,14 @@
 import UIKit
 
 class tblExerciseListCell: UITableViewCell {
+    @IBOutlet var lblName : UILabel!
+    @IBOutlet var lblDescription : UILabel!
+    
+    
+    func setData(name:String?,description:String?){
+        lblName.text = name
+        lblDescription.text = description
+    }
 
     override func awakeFromNib() {
         super.awakeFromNib()
@@ -17,7 +25,6 @@ class tblExerciseListCell: UITableViewCell {
     override func setSelected(_ selected: Bool, animated: Bool) {
         super.setSelected(selected, animated: animated)
 
-        // Configure the view for the selected state
     }
 
 }

@@ -7,12 +7,18 @@
 
 import Foundation
 
-class ExcersieModel : Decodable{
+class ExcerciseModel : Decodable{
     var name : String?
     var description : String?
     
     init(name:String?,description:String?) {
         self.name = name
         self.description = description
+    }
+}
+class resultModel : Decodable{
+    var results = [ExcerciseModel]()
+    init(results:[ExcerciseModel]){
+        self.results = results
     }
 }

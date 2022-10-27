@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B616C691-C446-4C21-AD40-DC2C2742C6EB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "02FA7549-C872-495E-8983-6A8239B67344"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMWithAlmofire/ViewController/ExerciseListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59246767-DF83-4B13-A609-691C69661EC5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMWithAlmofire/ViewController/ExerciseListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "37D9E4DD-CCB9-40D6-A4B8-AAFF58D8F23C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMWithAlmofire/Services/Services.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "Services"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "846E8695-0725-4DC0-BDFD-412D5A9D125E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMWithAlmofire/Services/Services.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "Services"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8A25FE20-5DC9-461C-B2FD-F31A776D5F7D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMWithAlmofire/Services/Services.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "Services"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "33F846CD-51B8-4DFF-9DCC-7072B8A0F8FB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMWithAlmofire/Services/Services.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "Services"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AA0167E6-EA8E-4E59-B3A3-04737787FC9E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMWithAlmofire/Services/Services.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "Services"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AE5F12BD-22BF-4479-98C8-A3BDED344F9D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMWithAlmofire/ViewController/ExerciseListVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "getData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECCFDE57-04ED-4FD8-B805-D1D4C231791C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMWithAlmofire/ViewModel/ExcerciseViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ExcerciseViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "ECCFDE57-04ED-4FD8-B805-D1D4C231791C - 680a9b6734fee74c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMWithAlmofire.ExcerciseViewModel.exercisedescription.getter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "MVVMWithAlmofire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitsaini/Desktop/Amit%20Test%20Codes/Mine/MVVMWithAlmofire/MVVMWithAlmofire/ViewModel/ExcerciseViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "ECCFDE57-04ED-4FD8-B805-D1D4C231791C - 5cf21b0347403758"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMWithAlmofire.ExcerciseViewModel.exercisedescription.setter : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "MVVMWithAlmofire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitsaini/Desktop/Amit%20Test%20Codes/Mine/MVVMWithAlmofire/MVVMWithAlmofire/ViewModel/ExcerciseViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "ECCFDE57-04ED-4FD8-B805-D1D4C231791C - cf4c68f0bee13ade"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMWithAlmofire.ExcerciseViewModel.exercisedescription.modify : Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "MVVMWithAlmofire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitsaini/Desktop/Amit%20Test%20Codes/Mine/MVVMWithAlmofire/MVVMWithAlmofire/ViewModel/ExcerciseViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "ECCFDE57-04ED-4FD8-B805-D1D4C231791C - beea7dc5c11a59e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMWithAlmofire.ExcerciseViewModel.exercisedescription.modify : Swift.Optional&lt;Swift.String&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MVVMWithAlmofire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitsaini/Desktop/Amit%20Test%20Codes/Mine/MVVMWithAlmofire/MVVMWithAlmofire/ViewModel/ExcerciseViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "ECCFDE57-04ED-4FD8-B805-D1D4C231791C - c8c5502503fd21ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMWithAlmofire.ExcerciseViewModel.init(exerciseListModel: MVVMWithAlmofire.ExcerciseModel) -&gt; MVVMWithAlmofire.ExcerciseViewModel"
+                  moduleName = "MVVMWithAlmofire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitsaini/Desktop/Amit%20Test%20Codes/Mine/MVVMWithAlmofire/MVVMWithAlmofire/ViewModel/ExcerciseViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8E7B4FA-6C01-4178-9778-CBBAB7A1CB8F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMWithAlmofire/Model/ExcerciseModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "init(name:description:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B8E7B4FA-6C01-4178-9778-CBBAB7A1CB8F - f132c7527afd6868"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMWithAlmofire.ExcerciseModel.__allocating_init(name: Swift.Optional&lt;Swift.String&gt;, description: Swift.Optional&lt;Swift.String&gt;) -&gt; MVVMWithAlmofire.ExcerciseModel"
+                  moduleName = "MVVMWithAlmofire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitsaini/Desktop/Amit%20Test%20Codes/Mine/MVVMWithAlmofire/MVVMWithAlmofire/Model/ExcerciseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "B8E7B4FA-6C01-4178-9778-CBBAB7A1CB8F - 66d6ec2f2251aa51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMWithAlmofire.ExcerciseModel.init(name: Swift.Optional&lt;Swift.String&gt;, description: Swift.Optional&lt;Swift.String&gt;) -&gt; MVVMWithAlmofire.ExcerciseModel"
+                  moduleName = "MVVMWithAlmofire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitsaini/Desktop/Amit%20Test%20Codes/Mine/MVVMWithAlmofire/MVVMWithAlmofire/Model/ExcerciseModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF0623FB-19F4-4A00-882F-79C325A7765E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMWithAlmofire/ViewModel/ExcerciseViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "init(exerciseListModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EF0623FB-19F4-4A00-882F-79C325A7765E - 6f20a3bd1db1ca28"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMWithAlmofire.ExcerciseViewModel.__allocating_init(exerciseListModel: MVVMWithAlmofire.ExcerciseModel) -&gt; MVVMWithAlmofire.ExcerciseViewModel"
+                  moduleName = "MVVMWithAlmofire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitsaini/Desktop/Amit%20Test%20Codes/Mine/MVVMWithAlmofire/MVVMWithAlmofire/ViewModel/ExcerciseViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "EF0623FB-19F4-4A00-882F-79C325A7765E - c8c5502503fd21ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMWithAlmofire.ExcerciseViewModel.init(exerciseListModel: MVVMWithAlmofire.ExcerciseModel) -&gt; MVVMWithAlmofire.ExcerciseViewModel"
+                  moduleName = "MVVMWithAlmofire"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitsaini/Desktop/Amit%20Test%20Codes/Mine/MVVMWithAlmofire/MVVMWithAlmofire/ViewModel/ExcerciseViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41DDB205-515D-4390-92A2-A501D667CDFB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMWithAlmofire/Services/Services.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "getData(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

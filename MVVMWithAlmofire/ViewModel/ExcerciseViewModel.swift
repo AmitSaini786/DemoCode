@@ -6,3 +6,13 @@
 //
 
 import Foundation
+
+class ExcerciseViewModel : NSObject{
+     var exercisedescription: String?
+     var name: String?
+    
+    init(exerciseListModel : ExcerciseModel) {
+        self.name = exerciseListModel.name
+        self.exercisedescription = exerciseListModel.description
+    }
+}
